@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <g transform="translate(-.43 -.41)">
+        <path data-name="line 1" transform="translate(39.739 11.963)" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px" d="M0 9.03V0"/>
+        <path data-name="path 1" d="M28.69 32.883a11.06 11.06 0 0 0-3.14 5.49.493.493 0 0 1-.93 0c-2.64-10.221-14.19-8.61-14.19-8.61v-17.8c8.449.16 12.11 3.58 14.309 7.04 1.08-1.7 2.74-4.12 5.29-5.14" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="path 2" d="M33.986 16.814c-1.636 0-2.007-1.246-2.007-3.2 0-1.9.371-3.2 2.007-3.2s2.006 1.3 2.006 3.2c0 1.956-.37 3.2-2.006 3.2" style="fill:#0080ff"/>
+        <circle cx="8.422" cy="8.422" r="8.422" transform="rotate(-22.5 72.534 -50.519)" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="path 3" d="M38.747 28.47c0 4.651-1.294 8.422-2.89 8.422s-2.889-3.771-2.889-8.422 1.294-8.422 2.889-8.422 2.89 3.771 2.89 8.422z" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="line 2" transform="translate(27.809 25.985)" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px" d="M0 0h16.098"/>
+        <path data-name="line 3" transform="translate(27.809 31.16)" style="fill:none;stroke:#4e5156;stroke-linejoin:round;stroke-width:2px" d="M0 0h16.098"/>
+    </g>
+</svg>

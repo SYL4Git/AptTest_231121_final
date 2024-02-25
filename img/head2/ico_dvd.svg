@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <g transform="translate(-192.562 -367.176)">
+        <path data-name="path 1" d="M229.779 385.372c1.505 1.505-.058 5.51-3.493 8.945s-7.439 5-8.945 3.493.058-5.51 3.493-8.945 7.439-4.998 8.945-3.493z" transform="translate(-5.997 -2.796)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px"/>
+        <path data-name="path 2" d="M229.016 392.606c.446.446-.187 1.8-1.413 3.028s-2.582 1.859-3.028 1.414.187-1.8 1.414-3.028 2.582-1.859 3.028-1.413" transform="translate(-9.233 -6.031)" style="fill:#4d5256"/>
+        <rect data-name="path 3" width="30" height="21.238" rx="3.905" transform="translate(202.562 378.176)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px"/>
+        <path data-name="path 4" d="M244.393 424.223c1.106-.691.83-1.69 0-3.012-.8-1.287-1.6-2.009-2.709-1.317s-.808 1.725 0 3.012c.826 1.322 1.6 2.009 2.708 1.317" transform="translate(-16.213 -17.499)" style="fill:#0080ff"/>
+        <path data-name="path 5" d="M210.843 424.223c-1.106-.691-.83-1.69 0-3.012.8-1.287 1.6-2.009 2.709-1.317s.807 1.725 0 3.012c-.825 1.322-1.6 2.009-2.708 1.317" transform="translate(-3.188 -17.499)" style="fill:#0080ff"/>
+    </g>
+</svg>

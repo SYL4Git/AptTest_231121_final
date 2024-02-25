@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>도서리스트</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+	<link href="css\base.css" rel="stylesheet">
+	<link href="css\main.css" rel="stylesheet">
+</head>
+<body>
+    <div id="wrap">
+        <div id="head">
+            <!-- head1 들이랑 head2 들이랑 합치기 -->
+            <section class="head1_1">
+                <div class="globalMenu">
+                    <a href="">gnb</a>
+                </div>
+                <h1 class="logo"><a href="">yes24</a></h1>
+                <div class="memberMenu">
+                    <button class="material-icons-outlined">person</button>
+                </div>
+            </section>
+            <section class="head1_2">
+                <div class="search">
+                    <!-- input 안에 button 넣기 -->
+                    <input type="text" placeholder="<매불쇼>100만이 열광한 한국사 강의">
+                    <button class="srch_btn mo">검색버튼</button>
+                    <div class="advSrch tab">
+                        <a href="">상세검색</a>
+                    </div>
+                </div>
+                <div class="advSrch mo">
+                    <a href="">상세검색</a>
+                </div>
+            </section> 
+            <section class="head2_1">
+                <div class="category1">
+                    <ul>
+                        <li>
+                            <a href="">베스트</a>
+                        </li>
+                        <li>
+                            <a href="">홈</a>
+                        </li>
+                        <li>
+                            <a href="">국내도서</a>
+                        </li>
+                        <li>
+                            <a href="">외국도서</a>
+                        </li>
+                        <li>
+                            <a href="">중고샵</a>
+                        </li>
+                        <li class="tab">
+                            <a href="">eBook</a>
+                        </li>
+                        <li class="tab">
+                            <a href="">웹소설/코믹</a>
+                        </li>
+                        <li class="tab">
+                            <a href="">CD/LP</a>
+                        </li>
+                        <li class="tab">
+                            <a href="">DVD/BD</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="cate1_more">
+                    <a href="">down</a>
+                </div>
+            </section>
+            <section class="head2_2">
+                <div class="category2">
+                    <ul>
+                        <li class="realtime">
+                            <a href="">실시간아이콘</a>
+                            <p>실시간</p>
+                        </li>
+                        <li class="domestic selected">
+                            <a href="">국내도서아이콘</a>
+                            <p>국내도서</p>
+                            </a>
+                        </li>
+                        <li class="international">
+                            <a href="">외국도서아이콘</a>
+                            <p>외국도서</p>
+                        </li>
+                        <li class="secHand">
+                            <a href="">중고샵</a>
+                            <p>중고샵</p>
+                        </li>
+                        <li class="eBook tab">
+                            <a href="">eBook</a>
+                            <p>eBook</p>
+                        </li>
+                        <li class="CdLp tab">
+                            <a href="">CdLp</a>
+                            <p>CD/LP</p>
+                        </li>
+                        <li class="DvdBd tab">
+                            <a href="">DvdBd</a>
+                            <p>DVD/BD</p>
+                        </li>
+                        <li class="gift tab">
+                            <a href="">gift</a>
+                            <p>문구/GIFT</p>
+                        </li>
+                        <li class="present tab">
+                            <a href="">선물하기</a>
+                            <p>선물하기</p>
+                        </li>
+                        <li class="freeEvnt tab">
+                            <a href="">freeEvnt</a>
+                            <p>특가</p>
+                        </li>
+                    </ul>
+                    <div class="cate2_more">
+                        <a href="">카테고리</a>
+                    </div>
+                </div>
+            </section>
+           <section class="adv">
+            <!-- <img src="img/adv/2577280_231109115933.jpg" alt=""> -->
+           </section>
+        </div>
+        <div id="body">
+            <section class="booklist">
+                <div class="itm">
+                    <ol>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/reading_at_forties.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                            </div>
+                            <div class="right">
+                                <p class="rank">1위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">마흔에 읽는 쇼펜하우어</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>강용수 저</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>유노북스</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>15,300</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>850</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <div class="rating_details">
+                                        <p class="score"><span>9.2</span></p>
+                                        <p class="reviews"><span>(14건)</span></p>
+                                    </div>
+                                    <!-- <p class="score"><span>9.2</span></p>
+                                    <p class="reviews"><span>(14건)</span></p> -->
+                                </div>
+                                <div class="eta">
+                                    22시까지 주문하면 <span>내일 아침 7시 전(11/18, 토)</span> 도착예정
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/poohbao.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                                <!-- <p class="info_more"><a href="">추가정보</a></p> -->
+                            </div>
+                            <div class="right">
+                                <p class="rank">2위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">전지적 푸바오 시점</span>
+                                    <span class="addInfo">[ 양장 ]</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>에버랜드 동물원 글그림, 송...</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>위즈덤하우스</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>19,800</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>1,100</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <p class="score"><span>10</span></p>
+                                    <p class="reviews"><span>(7건)</span></p>
+                                </div>
+                                <div class="eta">
+                                    <span>11/23(목) 발송예정(예약판매)</span> 발송예정
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/theMind.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                                <!-- <p class="info_more"><a href="">추가정보</a></p> -->
+                            </div>
+                            <div class="right">
+                                <p class="rank">3위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">더 마인드</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>하와이 대저택 저</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>웅진지식하우스</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>17,820</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>990</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <p class="score"><span>9.6</span></p>
+                                    <p class="reviews"><span>(22건)</span></p>
+                                </div>
+                                <div class="eta">
+                                    22시까지 주문하면 <span>내일 아침 7시 전(11/18, 토)</span> 도착예정
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/trendKorea.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                                <!-- <p class="info_more"><a href="">추가정보</a></p> -->
+                            </div>
+                            <div class="right">
+                                <p class="rank">4위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">트렌드 코리아 2024</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>김난도, 전미영, 최지혜, 이수...</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>미래의창</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>17,100</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>950</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <p class="score"><span>9.6</span></p>
+                                    <p class="reviews"><span>(52건)</span></p>
+                                </div>
+                                <div class="eta">
+                                    22시까지 주문하면 <span>내일 아침 7시 전(11/18, 토)</span> 도착예정
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/neverLeave.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                                <!-- <p class="info_more"><a href="">추가정보</a></p> -->
+                            </div>
+                            <div class="right">
+                                <p class="rank">5위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">작별하지 않는다</span>
+                                    <span class="addInfo">[ 2023 메디치상 외국문학상 수상작 ]</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>한강 저</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>문학동네</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>12,600</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>700</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <p class="score"><span>9.4</span></p>
+                                    <p class="reviews"><span>(189건)</span></p>
+                                </div>
+                                <div class="eta">
+                                    22시까지 주문하면 <span>내일 아침 7시 전(11/18, 토)</span> 도착예정
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="left">
+                                <div class="img">
+                                    <img src="img/m1_booklist/stopWastingLifeShowingOff.jfif" alt="">
+                                </div>
+                                <p class="preview"><a href="">미리보기</a></p>
+                                <!-- <p class="info_more"><a href="">추가정보</a></p> -->
+                            </div>
+                            <div class="right">
+                                <p class="rank">6위</p>
+                                <p class="title">
+                                    <span class="type">[도서]</span>
+                                    <span class="name">남에게 보여주려고 인생을 낭비하지 마라</span>
+                                </p>
+                                <div class="auth_pub">
+                                    <div class="auth">
+                                        <span>아르투어 쇼펜하우어 저, 박...</span>
+                                    </div>
+                                    <div class="pub">
+                                        <span>페이지2</span>
+                                    </div>
+                                </div>
+                                <div class="price">
+                                    <div class="net_price">
+                                        <span>15,750</span>원
+                                    </div>
+                                    <div class="disc_mem">
+                                        <div class="disc">
+                                            (<span>10%</span> <span>할인</span>)
+                                        </div>
+                                        <div class="mem">
+                                            <p class="mem_img">mem_img</p>
+                                            <p class="point"><span>875</span>원</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="rating">
+                                    <p class="stars"><img src="img/m1_booklist/rating5.PNG" alt=""></p>
+                                    <p class="score"><span>10</span></p>
+                                    <p class="reviews"><span>(29건)</span></p>
+                                </div>
+                                <div class="eta">
+                                    22시까지 주문하면 <span>내일 아침 7시 전(11/18, 토)</span> 도착예정
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                </div>
+            </section>
+        </div>
+        <div id="footer">
+        </div>
+    </div>
+</body>
+</html>

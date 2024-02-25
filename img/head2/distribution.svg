@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H18V18H0z" style="fill:none"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill:#333}
+        </style>
+    </defs>
+    <g id="prefix__icon_viewtype_image" transform="translate(-20 -1308)">
+        <path id="prefix__area" d="M0 0H30V30H0z" transform="translate(20 1308)" style="fill:#f66;opacity:0"/>
+        <g id="prefix__반복_그리드_7" data-name="반복 그리드 7" transform="translate(26 1314)">
+            <g transform="translate(-24.001 -1312)">
+                <path id="prefix__사각형_79" d="M0 0H8V8H0z" class="prefix__cls-4" data-name="사각형 79" transform="translate(24.001 1312)"/>
+            </g>
+            <g transform="translate(-14.001 -1312)">
+                <path id="prefix__사각형_79-2" d="M0 0H8V8H0z" class="prefix__cls-4" data-name="사각형 79" transform="translate(24.001 1312)"/>
+            </g>
+            <g transform="translate(-24.001 -1302)">
+                <path id="prefix__사각형_79-3" d="M0 0H8V8H0z" class="prefix__cls-4" data-name="사각형 79" transform="translate(24.001 1312)"/>
+            </g>
+            <g transform="translate(-14.001 -1302)">
+                <path id="prefix__사각형_79-4" d="M0 0H8V8H0z" class="prefix__cls-4" data-name="사각형 79" transform="translate(24.001 1312)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <path data-name="path 1" d="M232.665 219.205v18.245s-11.842-1.648-14.545 8.826a.507.507 0 0 1-.953 0c-2.7-10.474-14.545-8.826-14.545-8.826v-18.245c8.662.162 12.418 3.67 14.665 7.213v10.97" transform="translate(-192.623 -206.611)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px"/>
+    <path data-name="path 2" d="M233.336 222.563c-2.617 1.042-4.319 3.519-5.427 5.265" transform="translate(-203.243 -208.021)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px"/>
+    <path data-name="path 3" d="M242.768 223.02c-1.677 0-2.056-1.277-2.056-3.282 0-1.952.379-3.282 2.056-3.282s2.056 1.331 2.056 3.282c0 2-.379 3.282-2.056 3.282" transform="translate(-208.62 -205.456)" style="fill:#0080ff"/>
+</svg>

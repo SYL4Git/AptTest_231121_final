@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_jFree" transform="translate(-28 -249)">
+    <rect id="area" width="50" height="50" transform="translate(28 249)" fill="rgba(255,56,4,0.2)" opacity="0"/>
+    <g id="path">
+      <path id="path_1" data-name="path 1" d="M232.665,219.205V237.45s-11.842-1.648-14.545,8.826a.507.507,0,0,1-.953,0c-2.7-10.474-14.545-8.826-14.545-8.826V219.205c8.662.162,12.418,3.67,14.665,7.213v1.4" transform="translate(-164.623 42.389)" fill="none" stroke="#4d5156" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="path_2" data-name="path 2" d="M233.336,222.563c-2.617,1.042-4.319,3.519-5.427,5.265" transform="translate(-175.243 40.979)" fill="none" stroke="#4d5156" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="path_3" data-name="path 3" d="M242.768,223.02c-1.677,0-2.056-1.277-2.056-3.282,0-1.952.379-3.282,2.056-3.282s2.056,1.331,2.056,3.282c0,2-.379,3.282-2.056,3.282" transform="translate(-180.62 43.544)" fill="#0080ff"/>
+      <path id="path_3-2" data-name="path 3" d="M-9.576.32h1.6V-1.832h1.824v-1.12H-7.976v-1.3H-5.64V-5.392H-9.576Zm4.784,0h1.6V-1.76H-2.6L-1.56.32H.1L-1.168-2.136v-.032a1.4,1.4,0,0,0,.944-1.44c0-1.232-.72-1.784-2.168-1.784h-2.4Zm1.584-3.04V-4.3h.576c.584,0,.816.24.816.768,0,.544-.224.816-.792.816ZM.776.32H4.8V-.824H2.36V-2.032H4.208V-3.16H2.36V-4.248H4.72V-5.392H.776ZM5.72.32H9.744V-.824H7.3V-2.032H9.152V-3.16H7.3V-4.248h2.36V-5.392H5.72Z" transform="translate(53 277)" fill="#4d5156"/>
+    </g>
+  </g>
+</svg>

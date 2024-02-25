@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <path data-name="path 1" d="M228.211 489.2H213.8a2.793 2.793 0 0 1-2.8-2.795v-22.957a2.793 2.793 0 0 1 2.793-2.793h14.414a2.793 2.793 0 0 1 2.793 2.793v22.958" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" transform="translate(-196.004 -449.655)"/>
+    <path data-name="line 1" transform="translate(19.156 16.562)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" d="M0 0h11.757"/>
+    <path data-name="line 2" transform="translate(19.156 20.861)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" d="M0 0h11.757"/>
+    <path data-name="line 3" transform="translate(19.156 25.161)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" d="M0 0h7.789"/>
+    <path data-name="패스 1330" d="M222.752 498.962c0-1.683 1.282-2.063 3.294-2.063 1.959 0 3.293.38 3.293 2.063s-1.335 2.063-3.293 2.063c-2.012 0-3.294-.38-3.294-2.063" transform="translate(-201.046 -465.209)" style="fill:#0080ff"/>
+</svg>

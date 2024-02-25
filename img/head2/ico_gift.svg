@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <g transform="translate(.001 -.284)">
+        <rect width="29.432" height="29.432" rx="1.516" transform="translate(10 10.284)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px"/>
+        <path data-name="path 1" d="M28.094 28.153c1.372-1.372 2.727-.637 4.368 1 1.6 1.6 2.376 3 1 4.369s-2.772.593-4.369-1c-1.641-1.641-2.375-3-1-4.369" style="fill:#0080ff"/>
+        <path data-name="path 2" d="M28.094 21.847c1.372 1.372 2.727.637 4.368-1 1.6-1.6 2.376-3 1-4.369s-2.772-.593-4.369 1c-1.641 1.64-2.375 3-1 4.368" style="fill:#0080ff"/>
+        <path data-name="path 3" d="M21.338 28.153c-1.372-1.372-2.728-.637-4.368 1-1.6 1.6-2.376 3-1 4.369s2.771.593 4.369-1c1.64-1.641 2.375-3 1-4.369" style="fill:#0080ff"/>
+        <path data-name="path 4" d="M21.338 21.847c-1.372 1.372-2.728.637-4.368-1-1.6-1.6-2.376-3-1-4.369s2.771-.593 4.369 1c1.64 1.64 2.375 3 1 4.368" style="fill:#0080ff"/>
+        <path data-name="선 114" transform="translate(10 25)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" d="M0 0h30"/>
+        <path data-name="선 115" transform="translate(24.716 10.284)" style="fill:none;stroke:#4d5156;stroke-miterlimit:10;stroke-width:2px" d="M0 0v28.545"/>
+    </g>
+</svg>

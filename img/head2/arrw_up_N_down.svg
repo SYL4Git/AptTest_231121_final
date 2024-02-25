@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+    <defs>
+        <style>
+            .cls-2{fill:#333}
+        </style>
+    </defs>
+    <g id="icon_sorting" transform="translate(-316 -1213)">
+        <g id="shape">
+            <path id="다각형_7" data-name="다각형 7" class="cls-2" d="M4.232.922a1 1 0 0 1 1.536 0L8.633 4.36A1 1 0 0 1 7.865 6h-5.73a1 1 0 0 1-.768-1.64z" transform="translate(321 1216)"/>
+            <path id="다각형_8" data-name="다각형 8" class="cls-2" d="M4.232.922a1 1 0 0 1 1.536 0L8.633 4.36A1 1 0 0 1 7.865 6h-5.73a1 1 0 0 1-.768-1.64z" transform="rotate(180 165.5 615)"/>
+        </g>
+    </g>
+</svg>
